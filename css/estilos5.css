@@ -16,50 +16,19 @@
 
 
 }
-.right1{
-    width: 0;
-    height: 0;
-    border-top: 25px solid rgba(0,0,0,0);
-    border-bottom: 25px solid rgba(0,0,0,0);
-    border-left: 30px solid #722902;
-    margin-top: -75px;
-    
-}
+
+
 .left1{
     width: 0;
     height: 0;
     border-top: 25px solid rgba(0,0,0,0);
     border-bottom: 25px solid rgba(0,0,0,0);
-    border-right: 30px solid #722902;
+    border-right: 30px solid#722902;
     margin-left: 540px;
-    margin-top: -50px;
+    margin-top: -90px;
 }
-.right2{
-    width: 0;
-    height: 0;
-    border-top: 25px solid rgba(0,0,0,0);
-    border-bottom: 25px solid rgba(0,0,0,0);
-    border-left: 30px solid #722902;
-    margin-top: -100px;
-}
+
 .left2{
-    width: 0;
-    height: 0;
-    border-top: 25px solid rgba(0,0,0,0);
-    border-bottom: 25px solid rgba(0,0,0,0);
-    border-right: 30px solid #722902;
-    margin-left: 540px;
-    margin-top: -220;
-}
-.right3{
-    width: 0;
-    height: 0;
-    border-top: 25px solid rgba(0,0,0,0);
-    border-bottom: 25px solid rgba(0,0,0,0);
-    border-left: 30px solid#722902;
-    margin-top: -100px;
-}
-.left3{
     width: 0;
     height: 0;
     border-top: 25px solid rgba(0,0,0,0);
@@ -68,6 +37,8 @@
     margin-left: 540px;
     margin-top: -220;
 }
+
+
 h3{
     text-align: center;
     font-size: 30px;
@@ -86,6 +57,38 @@ h5{
     margin: 10px;
     
 }
+h6{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 25px;
+    font-family: monospace;
+}
+.h010{
+    margin-right: 600px;
+
+}
+.h14{
+    margin-top: 70px;
+    margin-left: 510px;
+}
+.h15{
+    margin-left: 510px;
+
+}
+.h11{
+    margin-left: 420px;
+    margin-top: 56px;
+    
+
+
+}
+.h12{
+    margin-left: 420px;
+}
+.h13{
+    margin-left: 420px;
+
+}
 
 .h1{
     margin-top:  80px;
@@ -101,24 +104,24 @@ h5{
     
 }
 .h6{
-    margin-left: 460px;
-    margin-top: -70px;
+    margin-left: 440px;
+    margin-top: -50px;
 }
 .h7{
-    margin-left: 450px;
+    margin-left: 430px;
     margin-top: 50px;
 }
 .h8{
-    margin-left:460px ;
-    margin-top: -130px;
+    margin-left:450px ;
+    margin-top: -140px;
 }
 .h9{
-    margin-left:460px;
+    margin-left:450px;
     margin-top: 20px;
 }
 .h10{
     margin-left:420px;
-    margin-top: 20px;
+    margin-top: 10px;
     
 }
 
