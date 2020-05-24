@@ -1,6 +1,5 @@
 var x=document.getElementById("clave");
 
-const c=console.log
 
 function numero(n){
     var s=x.value;
@@ -8,6 +7,17 @@ function numero(n){
     
     
 }
+function cancelar(){
+    var a=document.getElementById("clave");
+    a.value="";
+}
+function limp() {
+    var a=document.getElementById("clave");
+    a.value=a.value.substring(0,a.value.length-1);
+
+    
+}
+
 class Usuario{
     constructor(clave){
         this.clave=clave;
@@ -58,3 +68,5 @@ function limpiar() {
     document.getElementById("clave").value="";
     document.getElementById("clave").focus();
 }
+
+
