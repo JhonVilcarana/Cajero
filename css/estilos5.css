@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
 }
-
 #cajero{
     width: 800px;
     height: 700px;
@@ -11,12 +10,11 @@
     top: 50%;
     left: 50%;
     margin-top: -300px;
-    margin-left: -300px;
+    margin-left: -400px;
     border-radius: 50px;
 
 
 }
-
 
 .left1{
     width: 0;
@@ -33,7 +31,7 @@
     height: 0;
     border-top: 25px solid rgba(0,0,0,0);
     border-bottom: 25px solid rgba(0,0,0,0);
-    border-right: 30px solid#722902;
+    border-right: 30px solid #f9981d ;
     margin-left: 540px;
     margin-top: -220;
 }
@@ -67,6 +65,7 @@ h6{
     margin-right: 600px;
 
 }
+
 .h14{
     margin-top: 70px;
     margin-left: 510px;

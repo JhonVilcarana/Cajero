@@ -11,7 +11,7 @@
     top: 50%;
     left: 50%;
     margin-top: -300px;
-    margin-left: -300px;
+    margin-left: -400px;
     border-radius: 50px;
 
 
@@ -129,21 +129,23 @@ h1{
     font-family: monospace;
     margin-left: 5px;
     font-size: 30px;
+    text-align: center;
 
 }
 h2{
     font-family: monospace;
     margin-left: 15px;
+    text-align: center;
 
 }
 .cajaclave{
     width: 360px;
     height: 30px;
     margin: 10px;
-    margin-left: 16px;
+    margin-left: 110px;
     border: 2px solid orange;
     text-align: center;
-    font-size: 36px;
+    font-size: 25px;
 }
 #arriba{
     

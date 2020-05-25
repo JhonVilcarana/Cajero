@@ -10,18 +10,18 @@
 <body>
     <section id="cajero" >
         <button class="arrow1"><i class="fas fa-caret-right"></i></i></button>
-        <button class="arrow2"><i class="fas fa-caret-left"></i></button>
+        <button class="arrow2" onclick="dinero()" ><i class="fas fa-caret-left"></i></button>
         <button class="arrow3"><i class="fas fa-caret-right"></i></button>
-        <button class="arrow4" onclick="dinero()"><i class="fas fa-caret-left"></i></button>
+        <button class="arrow4" ><i class="fas fa-caret-left"></i></button>
         <button class="arrow5"><i class="fas fa-caret-right"></i></button>
-        <button class="arrow6"><i class="fas fa-caret-left"></i></button>
+        <button class="arrow6" onclick="correg()"><i class="fas fa-caret-left"></i></button>
         <button class="arrow7"><i class="fas fa-caret-right"></i></button>
-        <button class="arrow8"><i class="fas fa-caret-left"></i></button>
+        <button class="arrow8" onclick="cancelar3()"><i class="fas fa-caret-left"></i></button>
 
         <section id="arriba">
             <h3>INGRESA MONTO A RETIRAR EN MULTIPLOS DE 10</h3>
             <form>
-            <input  id="multiplo" type="number" name="cantidad" min="10" step="10">
+            <input class="cajaretiro" id="multiplo" type="number" name="cantidad" min="10" step="10">
             
         </form>
             <h5 class="h11">CONFIRMAR</h5>
@@ -94,7 +94,7 @@
         </section>
         
     </section>
-    <script src="js/pag3.js"></script>
+    <script src="js/pag5.js"></script>
     
 </body>
 </html>
